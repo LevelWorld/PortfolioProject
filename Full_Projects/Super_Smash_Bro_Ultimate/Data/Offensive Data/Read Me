@@ -1,0 +1,11 @@
+This folder is home to the raw data, visulations 
+of the offensive data of the character of the Video game 
+'Super Smash Bro Ultimate'
+
+Because the offensive data is stored on each characters own page.
+(i.e. the character jigglypuff's attack details is on
+ https://ultimateframedata.com/jigglypuff)
+
+The source of the data was collected from the website 
+'https://ultimateframedata.com/stats'
+offensive data would be like 'Basedamage', 'startup','endlag' etc.
