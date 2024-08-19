@@ -1,0 +1,16 @@
+Hello, 
+
+Thank you for visiting my portfolio. This folder contains unique and 100% original projects that I created for
+the purposed of imporiving my skills as a data analysis. Often many of these project will require multiple tools/skillsets,
+and the results of those tools/skillsets (i.e. scripts, graphs, data, etc) are stored deeper in this folder. 
+
+
+If you were wanted to see a specific skillset/tool being showcase, for example Python or Mysql. 
+I encourage you to look at the folders in the PortfolioProject directory. Files containing evidence of my abilitiy in
+these tools/skillsets have been layout for your convenience.
+
+
+This file will serve as a table of contents of all folders ahead.
+Each folder going folder will contain a 'Read Me' file that serves as summary/'how to use' the contents in that folder.
+
+This file will also do the same but will contain all projects' summaries for your convenience.
