@@ -1,0 +1,18 @@
+Project: 
+Super_Smash_Bro_Ultimate
+
+This project is example of my abilites to collect data using webscraping techques. 
+Using Pandas and SQL for organizing, cleaning, and exporting. 
+Visualizations using tools like Tableau, and Power BI the data collected for this project to draw meaningful insights.
+
+Data
+The data is split into 2 folders. Offensive Data (i.e. grab reach, attack damage), 
+and non-offensive data (i.e. weight, walking speed).
+
+SQL
+The SQL foldercontains sql scripts in attempt to find any correlation between traits. (i.e. does weight have anything to
+do with walking speed, is that insight applied consitency or are there exceptions).
+
+Visualizations
+This folders contains visuals that are an attempt to show these insight drawn up from the folders mentioned above.
+Ulimiately there will be a visualization of objective hierarchy of characters in this game. (A.k.a. a Tier List)
