@@ -14,3 +14,12 @@ This file will serve as a table of contents of all folders ahead.
 Each folder going folder will contain a 'Read Me' file that serves as summary/'how to use' the contents in that folder.
 
 This file will also do the same but will contain all projects' summaries for your convenience.
+
+******************************************
+Project: 
+Super_Smash_Bro_Ultimate
+
+This project is example of my abilites to collect data using webscraping techques. 
+Using Pandas and SQL for organizing, cleaning, and exporting. 
+Visualizations using tools like Tableau, and Power BI the data collected for this project to draw meaningful insights.
+
